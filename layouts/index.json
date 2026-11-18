@@ -2,141 +2,281 @@
  {
   "n": 1,
   "layout": "cover",
-  "file": "01-cover.jpg"
+  "file": "01-cover.jpg",
+  "template": "Cover · Aurora",
+  "row": "01 · Covers & agenda"
  },
  {
   "n": 2,
   "layout": "cover-navy",
-  "file": "02-cover-navy.jpg"
+  "file": "02-cover-navy.jpg",
+  "template": "Cover · Horizon",
+  "row": ""
  },
  {
   "n": 3,
   "layout": "cover-center",
-  "file": "03-cover-center.jpg"
+  "file": "03-cover-center.jpg",
+  "template": "Cover · Split typography",
+  "row": ""
  },
  {
   "n": 4,
-  "layout": "index",
-  "file": "04-index.jpg"
+  "layout": "cover-gradient",
+  "file": "04-cover-gradient.jpg",
+  "template": "Cover · Legacy gradient",
+  "row": ""
  },
  {
   "n": 5,
-  "layout": "section",
-  "file": "05-section.jpg"
+  "layout": "index",
+  "file": "05-index.jpg",
+  "template": "Agenda · Four topics",
+  "row": ""
  },
  {
   "n": 6,
-  "layout": "topic",
-  "file": "06-topic.jpg"
+  "layout": "section",
+  "file": "06-section.jpg",
+  "template": "Divider · Dark numbered",
+  "row": "02 · Dividers & key messages"
  },
  {
   "n": 7,
-  "layout": "question",
-  "file": "07-question.jpg"
+  "layout": "section-flat",
+  "file": "07-section-flat.jpg",
+  "template": "Divider · Blue numbered",
+  "row": ""
  },
  {
   "n": 8,
-  "layout": "content",
-  "file": "08-content.jpg"
+  "layout": "section-number",
+  "file": "08-section-number.jpg",
+  "template": "Divider · Oversized number",
+  "row": ""
  },
  {
   "n": 9,
-  "layout": "image",
-  "file": "09-image.jpg"
+  "layout": "topic",
+  "file": "09-topic.jpg",
+  "template": "Project opener · Mixed typography",
+  "row": ""
  },
  {
   "n": 10,
-  "layout": "compare",
-  "file": "10-compare.jpg"
+  "layout": "question-circle",
+  "file": "10-question-circle.jpg",
+  "template": "Question · Brand circle",
+  "row": ""
  },
  {
   "n": 11,
-  "layout": "mobile",
-  "file": "11-mobile.jpg"
+  "layout": "composition",
+  "file": "11-composition.jpg",
+  "template": "Component · Composition overview",
+  "row": ""
  },
  {
   "n": 12,
-  "layout": "stats",
-  "file": "12-stats.jpg"
+  "layout": "image",
+  "file": "12-image.jpg",
+  "template": "Product · Large screenshot",
+  "row": "03 · Product & comparisons"
  },
  {
   "n": 13,
-  "layout": "statement",
-  "file": "13-statement.jpg"
+  "layout": "walkthrough",
+  "file": "13-walkthrough.jpg",
+  "template": "Component · Current-state walkthrough",
+  "row": ""
  },
  {
   "n": 14,
-  "layout": "section-flat",
-  "file": "14-section-flat.jpg"
+  "layout": "compare",
+  "file": "14-compare.jpg",
+  "template": "Comparison · Two screenshots",
+  "row": ""
  },
  {
   "n": 15,
-  "layout": "circle-list",
-  "file": "15-circle-list.jpg"
+  "layout": "compare-laptop",
+  "file": "15-compare-laptop.jpg",
+  "template": "Comparison · Two laptop mockups",
+  "row": ""
  },
  {
   "n": 16,
-  "layout": "quote-cards",
-  "file": "16-quote-cards.jpg"
+  "layout": "mobile",
+  "file": "16-mobile.jpg",
+  "template": "Product · Mobile mockup",
+  "row": ""
  },
  {
   "n": 17,
-  "layout": "quotes",
-  "file": "17-quotes.jpg"
+  "layout": "variants",
+  "file": "17-variants.jpg",
+  "template": "Product · Variants & showcase",
+  "row": ""
  },
  {
   "n": 18,
-  "layout": "quote",
-  "file": "18-quote.jpg"
+  "layout": "content",
+  "file": "18-content.jpg",
+  "template": "Product · Text & screenshot",
+  "row": ""
  },
  {
   "n": 19,
-  "layout": "people",
-  "file": "19-people.jpg"
+  "layout": "anatomy",
+  "file": "19-anatomy.jpg",
+  "template": "Component · Anatomy & delivery",
+  "row": ""
  },
  {
   "n": 20,
-  "layout": "columns",
-  "file": "20-columns.jpg"
+  "layout": "showcase",
+  "file": "20-showcase.jpg",
+  "template": "Component · Shortcuts & evidence",
+  "row": ""
  },
  {
   "n": 21,
-  "layout": "content-dark",
-  "file": "21-content-dark.jpg"
+  "layout": "collage",
+  "file": "21-collage.jpg",
+  "template": "Component · Audit collage",
+  "row": ""
  },
  {
   "n": 22,
-  "layout": "content-glow",
-  "file": "22-content-glow.jpg"
+  "layout": "intro",
+  "file": "22-intro.jpg",
+  "template": "Product · Feature spotlight",
+  "row": ""
  },
  {
   "n": 23,
-  "layout": "icons",
-  "file": "23-icons.jpg"
+  "layout": "circle-list",
+  "file": "23-circle-list.jpg",
+  "template": "Poll · Four options",
+  "row": "04 · Research & evidence"
  },
  {
   "n": 24,
-  "layout": "intro",
-  "file": "24-intro.jpg"
+  "layout": "content-dark",
+  "file": "24-content-dark.jpg",
+  "template": "Plan · Three deliverables",
+  "row": ""
  },
  {
   "n": 25,
-  "layout": "split",
-  "file": "25-split.jpg"
+  "layout": "content-glow",
+  "file": "25-content-glow.jpg",
+  "template": "Brief · Scenario",
+  "row": ""
  },
  {
   "n": 26,
-  "layout": "picture",
-  "file": "26-picture.jpg"
+  "layout": "content-gradient",
+  "file": "26-content-gradient.jpg",
+  "template": "Brief · Gradient scenario",
+  "row": ""
  },
  {
   "n": 27,
-  "layout": "meme",
-  "file": "27-meme.jpg"
+  "layout": "quote-cards",
+  "file": "27-quote-cards.jpg",
+  "template": "Quotes · Three testimonials",
+  "row": ""
  },
  {
   "n": 28,
+  "layout": "quotes",
+  "file": "28-quotes.jpg",
+  "template": "Quotes · Four cards",
+  "row": ""
+ },
+ {
+  "n": 29,
+  "layout": "icons",
+  "file": "29-icons.jpg",
+  "template": "Roadmap · Four initiatives",
+  "row": ""
+ },
+ {
+  "n": 30,
+  "layout": "people",
+  "file": "30-people.jpg",
+  "template": "People · Four personas",
+  "row": ""
+ },
+ {
+  "n": 31,
+  "layout": "columns",
+  "file": "31-columns.jpg",
+  "template": "Findings · Three columns",
+  "row": ""
+ },
+ {
+  "n": 32,
+  "layout": "stats",
+  "file": "32-stats.jpg",
+  "template": "Metrics · Three values",
+  "row": ""
+ },
+ {
+  "n": 33,
+  "layout": "quote",
+  "file": "33-quote.jpg",
+  "template": "Quote · Hero",
+  "row": "05 · Plans & briefs"
+ },
+ {
+  "n": 34,
+  "layout": "statement",
+  "file": "34-statement.jpg",
+  "template": "Statement · Full width",
+  "row": ""
+ },
+ {
+  "n": 35,
+  "layout": "slogan",
+  "file": "35-slogan.jpg",
+  "template": "Design-team slogan",
+  "row": ""
+ },
+ {
+  "n": 36,
+  "layout": "question",
+  "file": "36-question.jpg",
+  "template": "Question · Context",
+  "row": ""
+ },
+ {
+  "n": 37,
+  "layout": "split",
+  "file": "37-split.jpg",
+  "template": "Visual · Split image & text",
+  "row": "07 · Visuals & closing"
+ },
+ {
+  "n": 38,
+  "layout": "picture",
+  "file": "38-picture.jpg",
+  "template": "Visual · Full bleed",
+  "row": ""
+ },
+ {
+  "n": 39,
+  "layout": "meme",
+  "file": "39-meme.jpg",
+  "template": "Visual · Image & punchline",
+  "row": ""
+ },
+ {
+  "n": 40,
   "layout": "thanks",
-  "file": "28-thanks.jpg"
+  "file": "40-thanks.jpg",
+  "template": "Closing · Thank you",
+  "row": ""
  }
 ]
