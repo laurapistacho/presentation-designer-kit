@@ -1,0 +1,142 @@
+[
+ {
+  "n": 1,
+  "layout": "cover",
+  "file": "01-cover.jpg"
+ },
+ {
+  "n": 2,
+  "layout": "cover-navy",
+  "file": "02-cover-navy.jpg"
+ },
+ {
+  "n": 3,
+  "layout": "cover-center",
+  "file": "03-cover-center.jpg"
+ },
+ {
+  "n": 4,
+  "layout": "index",
+  "file": "04-index.jpg"
+ },
+ {
+  "n": 5,
+  "layout": "section",
+  "file": "05-section.jpg"
+ },
+ {
+  "n": 6,
+  "layout": "topic",
+  "file": "06-topic.jpg"
+ },
+ {
+  "n": 7,
+  "layout": "question",
+  "file": "07-question.jpg"
+ },
+ {
+  "n": 8,
+  "layout": "content",
+  "file": "08-content.jpg"
+ },
+ {
+  "n": 9,
+  "layout": "image",
+  "file": "09-image.jpg"
+ },
+ {
+  "n": 10,
+  "layout": "compare",
+  "file": "10-compare.jpg"
+ },
+ {
+  "n": 11,
+  "layout": "mobile",
+  "file": "11-mobile.jpg"
+ },
+ {
+  "n": 12,
+  "layout": "stats",
+  "file": "12-stats.jpg"
+ },
+ {
+  "n": 13,
+  "layout": "statement",
+  "file": "13-statement.jpg"
+ },
+ {
+  "n": 14,
+  "layout": "section-flat",
+  "file": "14-section-flat.jpg"
+ },
+ {
+  "n": 15,
+  "layout": "circle-list",
+  "file": "15-circle-list.jpg"
+ },
+ {
+  "n": 16,
+  "layout": "quote-cards",
+  "file": "16-quote-cards.jpg"
+ },
+ {
+  "n": 17,
+  "layout": "quotes",
+  "file": "17-quotes.jpg"
+ },
+ {
+  "n": 18,
+  "layout": "quote",
+  "file": "18-quote.jpg"
+ },
+ {
+  "n": 19,
+  "layout": "people",
+  "file": "19-people.jpg"
+ },
+ {
+  "n": 20,
+  "layout": "columns",
+  "file": "20-columns.jpg"
+ },
+ {
+  "n": 21,
+  "layout": "content-dark",
+  "file": "21-content-dark.jpg"
+ },
+ {
+  "n": 22,
+  "layout": "content-glow",
+  "file": "22-content-glow.jpg"
+ },
+ {
+  "n": 23,
+  "layout": "icons",
+  "file": "23-icons.jpg"
+ },
+ {
+  "n": 24,
+  "layout": "intro",
+  "file": "24-intro.jpg"
+ },
+ {
+  "n": 25,
+  "layout": "split",
+  "file": "25-split.jpg"
+ },
+ {
+  "n": 26,
+  "layout": "picture",
+  "file": "26-picture.jpg"
+ },
+ {
+  "n": 27,
+  "layout": "meme",
+  "file": "27-meme.jpg"
+ },
+ {
+  "n": 28,
+  "layout": "thanks",
+  "file": "28-thanks.jpg"
+ }
+]
