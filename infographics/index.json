@@ -1,0 +1,58 @@
+[
+ {
+  "n": 1,
+  "layout": "wheel",
+  "file": "01-wheel.jpg",
+  "template": "Infographic · Wheel (kit)",
+  "row": ""
+ },
+ {
+  "n": 2,
+  "layout": "rings",
+  "file": "02-rings.jpg",
+  "template": "Infographic · Rings (kit)",
+  "row": ""
+ },
+ {
+  "n": 3,
+  "layout": "cycle",
+  "file": "03-cycle.jpg",
+  "template": "Infographic · Cycle (kit)",
+  "row": ""
+ },
+ {
+  "n": 4,
+  "layout": "process",
+  "file": "04-process.jpg",
+  "template": "Infographic · Process (kit)",
+  "row": ""
+ },
+ {
+  "n": 5,
+  "layout": "userflow",
+  "file": "05-userflow.jpg",
+  "template": "Infographic · User flow (kit)",
+  "row": ""
+ },
+ {
+  "n": 6,
+  "layout": "timeline",
+  "file": "06-timeline.jpg",
+  "template": "Infographic · Timeline (kit)",
+  "row": ""
+ },
+ {
+  "n": 7,
+  "layout": "hierarchy",
+  "file": "07-hierarchy.jpg",
+  "template": "Infographic · Hierarchy (kit)",
+  "row": ""
+ },
+ {
+  "n": 8,
+  "layout": "matrix",
+  "file": "08-matrix.jpg",
+  "template": "Infographic · Matrix (kit)",
+  "row": ""
+ }
+]
